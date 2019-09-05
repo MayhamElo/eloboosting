@@ -4,11 +4,11 @@ Never miss a minion wave. You need to farm every one of them before you going to
 
 ## General advice from professionals
 
-To boost your gaming skill in the Farming game to the very next level you need to follow these simple tips and hints. They are adviced by the professional League of Legends player **Hewitt "prohibit" Benson**, booster from the [https://elo-boosters.com](https://elo-boosters.com).
+To boost your gaming skill in the Farming game to the very next level you need to follow these simple tips and hints. They are adviced by the professional League of Legends player **Hewitt "prohibit" Benson**, booster from the https://elo-boosters.com.
 
 Get 100% of usage from the Practice Tool
 
-The [Practice Tool](https://na.leagueoflegends.com/en/news/game-updates/features/practice-tool-now-live) is a wonderful instrument that could be used to increase your mechanical skills and reaction time. But to use it right you need to follow the next rules:
+The [Practice Tool] (https://na.leagueoflegends.com/en/news/game-updates/features/practice-tool-now-live) is a wonderful instrument that could be used to increase your mechanical skills and reaction time. But to use it right you need to follow the next rules:
 
 Create an indestructible Turrets.
 Try to avoid using auto attacks while you learning how to CS minions.
@@ -17,7 +17,7 @@ But always keep in mind that no matter how good your CSing skill or reacting tim
 
 ### Farm under Towers
 
-Another crucial thing you need to know is how to kill creeps under the tower. The idea is simple for the first 10 minutes of the game. Melee creep require two auto-attacks and one turret shot to be killed, while caster needs one turret shot and one auto-attack. Simple enough, isn't it? But there are a lot of different factors that may make this thing much harder. Like minion could approach under the tower with not full HP, so you need to understand when you need to understand your damage output. [Caster minions](https://lol.gamepedia.com/Caster_Minion) could die after first shot even if they have 60-70% of HP pool. And even if you a support you need to understand every situation when you need to give a single attack on creep to easy the life to your *ADC player*.
+Another crucial thing you need to know is how to kill creeps under the tower. The idea is simple for the first 10 minutes of the game. Melee creep require two auto-attacks and one turret shot to be killed, while caster needs one turret shot and one auto-attack. Simple enough, isn't it? But there are a lot of different factors that may make this thing much harder. Like minion could approach under the tower with not full HP, so you need to understand when you need to understand your damage output. [Caster minions] (https://lol.gamepedia.com/Caster_Minion) could die after first shot even if they have 60-70% of HP pool. And even if you a support you need to understand every situation when you need to give a single attack on creep to easy the life to your *ADC player*.
 
 ### Never forget that minions are fighting each other
 
@@ -35,4 +35,4 @@ You need to learn how to maximize CS differential and how to control the lane's 
 
 Never forget about the balance between experience, gold, and health. You need to always keep in mind that in some cases, you might stop killing creeps in order to help your team or to save your life.
 
-And if you have some core Items that giving you [Power Spike](https://www.reddit.com/r/leagueoflegends/comments/3qe07q/all_champion_power_spikes/), then you need to share minions a little. Your allies need gold as well, so do not hesitate to share a little with them. The extra 400 gold could be spent by you, to buy additional Long Sword, but the same gold could go into finishing the Void Staff of your ally.
+And if you have some core Items that giving you [Power Spike] (https://www.reddit.com/r/leagueoflegends/comments/3qe07q/all_champion_power_spikes/), then you need to share minions a little. Your allies need gold as well, so do not hesitate to share a little with them. The extra 400 gold could be spent by you, to buy additional Long Sword, but the same gold could go into finishing the Void Staff of your ally.
